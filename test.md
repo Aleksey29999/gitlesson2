@@ -55,4 +55,4 @@ git  merge branch_name         -слияние веток . слияние пр�
 привет вторая лекция git
 снова  была добавлена из low
 git hjkjkjjlhnjnb
-fghhjkjhkhjkhjkhjkhjkhjkhjkhjkhjk
+fghghghfghfg 
